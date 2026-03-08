@@ -174,7 +174,7 @@ repo/
 ├── video_data/
 │   video_links
 │
-├── plots/
+├── plot/
 │   trajectory_LK.png
 │   trajectory_Farneback.png
 │
