@@ -1,0 +1,58 @@
+{
+  "cls_errors": 30,
+  "loc_errors": 156,
+  "false_positives": 1488,
+  "false_negatives": 1213,
+  "per_class": {
+    "person": {
+      "cls": 0,
+      "loc": 156,
+      "fn": 407
+    },
+    "bicycle": {
+      "cls": 1,
+      "loc": 0,
+      "fn": 31
+    },
+    "car": {
+      "cls": 6,
+      "loc": 0,
+      "fn": 111
+    },
+    "motorcycle": {
+      "cls": 13,
+      "loc": 0,
+      "fn": 27
+    },
+    "airplane": {
+      "cls": 1,
+      "loc": 0,
+      "fn": 11
+    },
+    "bus": {
+      "cls": 3,
+      "loc": 0,
+      "fn": 25
+    },
+    "train": {
+      "cls": 1,
+      "loc": 0,
+      "fn": 6
+    },
+    "truck": {
+      "cls": 1,
+      "loc": 0,
+      "fn": 26
+    },
+    "boat": {
+      "cls": 2,
+      "loc": 0,
+      "fn": 37
+    },
+    "traffic light": {
+      "cls": 2,
+      "loc": 0,
+      "fn": 50
+    }
+  }
+}
