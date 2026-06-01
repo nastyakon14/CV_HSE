@@ -240,6 +240,9 @@ synthetic_data/
 ├── class_2/
 └── ...
 ```
+<img width="1311" height="1217" alt="synthetic_samples" src="https://github.com/user-attachments/assets/74261b25-1fc7-4973-9138-fcbf5c337c5d" />
+
+
 
 ---
 
